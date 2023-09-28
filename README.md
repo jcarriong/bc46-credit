@@ -1,2 +1,2 @@
 # bc46-credit
-Credit Card Microservice
+Credit Microservice
